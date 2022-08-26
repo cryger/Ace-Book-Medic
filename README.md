@@ -1,4 +1,4 @@
-# bookmedik-pro
+# Ace bookmedik-pro
 Sistema de Gestion de Citas Medicas PRO
 "# bookmedicpro" 
 
@@ -9,7 +9,7 @@ La metodologia de trabajo del software es sobre la base de datos MYSQL con implm
 # Autor: henrygarcia
 
 
-Instalacion de BookMedik Pro en XAMPP en Windows
+Instalacion de  Ace Book Medic en XAMPP en Windows
 
 
 # 1.- Copiar la carpeta del sistema a la direccion c:\xampp\htdocs\ de manera que el sistema quede c:\xampp\htdocs\bookmedik-pro
