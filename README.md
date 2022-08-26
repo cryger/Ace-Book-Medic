@@ -2,6 +2,10 @@
 Sistema de Gestion de Citas Medicas PRO
 "# bookmedicpro" 
 
+Este software se diseno para un instituto de neurorehabilitacion, de igual manera, es un software con capacidades de adaptacion para cualquier tipo de consultorio clinico pequeno que solo requiera de registro de clientes, pacientes, enfermeros y gestion de turnos a nivel interno.
+
+La metodologia de trabajo del software es sobre la base de datos MYSQL con implmentacion del Backend en PHP para poderse usar sin necesidad de conexion a internet mediante el localhost que permite el servidor apache tomcat
+
 # Autor: henrygarcia
 
 
